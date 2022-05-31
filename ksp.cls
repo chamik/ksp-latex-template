@@ -1,3 +1,6 @@
+% Created by Kubík (https://github.com/chamik/ksp-latex-template)
+% Shared under the MIT license
+
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{ksp}[2022/03/16 A template for KSP theoretical exercises]
 
