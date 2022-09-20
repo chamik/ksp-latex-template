@@ -4,7 +4,7 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{ksp}[2022/03/16 A template for KSP theoretical exercises]
 
-\LoadClass[11pt, fleqn]{article}
+\LoadClass[a4paper, 11pt, fleqn]{article}
 
 \RequirePackage[T1]{fontenc}  % modern font encoding
 \RequirePackage{sectsty} % font size settings
