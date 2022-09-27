@@ -60,3 +60,5 @@
         }
     \end{center}
 }
+
+\newcommand{\BigO}{\mathcal{O}}
