@@ -37,12 +37,6 @@
 % line spacing
 \linespread{1.1}
 
-% math spacing
-\AtBeginDocument{
-  \addtolength\abovedisplayskip{-1\baselineskip}
-  \addtolength\belowdisplayskip{.1\baselineskip}
-}
-
 % section font size
 \sectionfont{\LARGE\selectfont}
 
